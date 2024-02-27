@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![logo](https://github.com/SOUMYA5116U/SOUMYA5116U/blob/main/MY%20Banner.png)
 <h1 align="center">Hi 👋, I'm Soumya Ranjan Sahoo</h1>
 <h3 align="center">A passionate learner (full stack development) from India</h3>
 
